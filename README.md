@@ -8,7 +8,7 @@
 - Escribir o copiar: `npm i`, luego presionar "Enter"
 ## Uso
 ### Pasos
-- En una terminal abierta en la locacion del proyecto escribir o copiar: `npm test`
+- En una terminal abierta en la locacion del proyecto escribir o copiar: `npm test`, luego presionar "Enter"
 
 ## Notas
 - Las lineas 10 y 12 del archivo test.js tienen sus comentarios, que indican porque no se usan
