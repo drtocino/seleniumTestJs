@@ -7,8 +7,8 @@ const {Builder, By, Key} = require('selenium-webdriver');
     await driver.get('https://www.facebook.com/');
     await driver.findElement(By.name('email')).sendKeys('dch19940@gmail.com');
     await driver.findElement(By.name('pass')).sendKeys('P@ssw0rd', Key.RETURN);
-    //await driver.wait(() => driver.findElement(By.xpath('/html/body/div[1]/div[1]/div[1]/div/div[2]/div[3]/div/div[1]/div[1]/ul/li[2]/span/div/a/span/svg')).click(), 10000);
+    //await driver.wait(() => driver.findElement(By.xpath('/html/body/div[1]/div[1]/div[1]/div/div[2]/div[3]/div/div[1]/div[1]/ul/li[2]/span/div/a/span/svg')).click(), 10000);     // Intento por hacer una busqueda en facebook, fallido
   } finally {
-    //await driver.quit();
+    //await driver.quit();      //Cierra la ventana, pero no se aprecia el inicio de sesion
   }
 })();
