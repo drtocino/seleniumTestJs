@@ -1,4 +1,6 @@
 # Actividades automatizadas con selenium
+## Objetivo del este script de testing
+- Iniciar sesion en Facebook de forma automatizada satisfactoriamente
 ## Inicializacion/instalacion
 ### Pasos
 - Abrir una terminal y escribir o copiar: `git clone https://github.com/drtocino/seleniumTestJs.git`, luego presionar "Enter"
