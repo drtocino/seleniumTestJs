@@ -7,6 +7,7 @@
 - Tener instalado node y npm
 - Tener instalado git
 - Tener instalado firefox
+- En windows se requiere el webdriver de firefox, y si en algun otro sistema operativo lo pide, en el siguiente enlace se encuentran los ejecutables para instalar el webdriver correspondiente `https://github.com/mozilla/geckodriver/releases`.
 ## Inicializacion/instalacion
 ### Pasos
 - Abrir una terminal y escribir o copiar: `git clone https://github.com/drtocino/seleniumTestJs.git`, luego presionar "Enter"
